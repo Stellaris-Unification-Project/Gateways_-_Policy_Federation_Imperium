@@ -27,9 +27,7 @@ gatewayBuild = {
 					has_ai_personality_behaviour = conqueror
 					has_ai_personality_behaviour = subjugator
 					has_ai_personality_behaviour = purger
-					has_valid_civic = "civic_fanatic_purifiers"
-					has_valid_civic = "civic_hive_devouring_swarm"
-					has_valid_civic = "civic_machine_terminator"
+					is_homicidal = yes
 					has_ethic = "ethic_fanatic_xenophobe"
 					has_ethic = "ethic_xenophobe"
 				}
@@ -62,9 +60,7 @@ gatewayBuild = {
 					has_ai_personality_behaviour = conqueror
 					has_ai_personality_behaviour = subjugator
 					has_ai_personality_behaviour = purger
-					has_valid_civic = "civic_fanatic_purifiers"
-					has_valid_civic = "civic_hive_devouring_swarm"
-					has_valid_civic = "civic_machine_terminator"
+					is_homicidal = yes
 					has_ethic = "ethic_fanatic_xenophobe"
 					has_ethic = "ethic_xenophobe"
 				}
